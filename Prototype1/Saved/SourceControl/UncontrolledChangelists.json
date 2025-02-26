@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/Levels/Testinghall.umap",
-				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/UI/BP_HUD.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/UI/MyHUD.uasset"
 			]
 		}
 	]
