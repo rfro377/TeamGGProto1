@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/Levels/Testinghall.umap",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/UI/BP_HUD.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/UI/MyHUD.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/Levels/_GENERATED/rjfro/Box_B9F3725D.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/Levels/_GENERATED/rjfro/Cylinder_21CB1BA5.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/Blueprints/BP_Platform.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/Blueprints/BP_PowerFocalPoint.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/Blueprints/BP_InteractTargets.uasset",
+				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/Attack_BP/BP_WaterAttack.uasset",
 				"D:/Users/MDS3001232/Documents/GitHub/TeamGGProto1/Prototype1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Users/MDS3001232/Documents/GitHub/TeamGGProto1/Prototype1/Content/Levels/Testinghall.umap",
 				"D:/Users/MDS3001232/Documents/GitHub/TeamGGProto1/Prototype1/Content/UI/Character/BPC_Inventory.uasset",
@@ -62,14 +73,7 @@
 				"C:/Users/summe/OneDrive/Desktop/TeamGGProto1/Prototype1/Content/Characters/Player/Player_Export_PhysicsAsset.uasset",
 				"C:/Users/summe/OneDrive/Desktop/TeamGGProto1/Prototype1/Content/Characters/Player/Player_Export_Skeleton.uasset",
 				"C:/Users/summe/OneDrive/Desktop/TeamGGProto1/Prototype1/Content/Characters/Player/Girl.uasset",
-				"D:/Users/MDS3001232/Documents/GitHub/TeamGGProto1/Prototype1/Content/UI/Character/WBP_InventoryMenu.uasset",
-				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/Levels/Testinghall.umap",
-				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/UI/BP_HUD.uasset",
-				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/UI/MyHUD.uasset",
-				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/Levels/_GENERATED/rjfro/Box_B9F3725D.uasset",
-				"H:/MDS/PreProd 1/TeamGGProto1/Prototype1/Content/Levels/_GENERATED/rjfro/Cylinder_21CB1BA5.uasset"
+				"D:/Users/MDS3001232/Documents/GitHub/TeamGGProto1/Prototype1/Content/UI/Character/WBP_InventoryMenu.uasset"
 			]
 		}
 	]
