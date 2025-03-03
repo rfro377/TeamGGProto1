@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Users/MDS3001232/Documents/GitHub/TeamGGProto1/Prototype1/Content/Levels/Testinghall.umap",
+				"D:/Users/MDS3001232/Documents/GitHub/TeamGGProto1/Prototype1/Content/Blueprints/Checkpoint/BP_Checkpoint.uasset",
+				"D:/Users/MDS3001232/Documents/GitHub/TeamGGProto1/Prototype1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Users/MDS3001232/Documents/GitHub/TeamGGProto1/Prototype1/Content/Characters/Player/Anims/Standing_2H_Magic_Attack_05.uasset",
+				"D:/Users/MDS3001232/Documents/GitHub/TeamGGProto1/Prototype1/Content/Characters/Player/Anims/AM_Cast.uasset",
 				"C:/Users/docto/Desktop/TeamGGProto1-main/TeamGGProto1/Prototype1/Content/Characters/Critters/Worm_Posed.uasset",
 				"C:/Users/docto/Desktop/TeamGGProto1-main/TeamGGProto1/Prototype1/Content/Levels/Testinghall.umap",
 				"C:/Users/docto/Desktop/TeamGGProto1-main/TeamGGProto1/Prototype1/Content/Characters/Critters/Worm_Clean.uasset",
