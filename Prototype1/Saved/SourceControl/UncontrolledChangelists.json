@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/summe/OneDrive/Desktop/TeamGGProto1/Prototype1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/summe/OneDrive/Desktop/TeamGGProto1/Prototype1/Content/ExtraAssets/P_Poof.uasset",
+				"C:/Users/summe/OneDrive/Desktop/TeamGGProto1/Prototype1/Content/Blueprints/BP_Critter.uasset",
+				"C:/Users/summe/OneDrive/Desktop/TeamGGProto1/Prototype1/Content/Attack_BP/AttackEffect.uasset",
 				"C:/Users/docto/Desktop/TeamGGProto1-main/TeamGGProto1/Prototype1/Content/Sounds/jump-518130.uasset",
 				"C:/Users/docto/Desktop/TeamGGProto1-main/TeamGGProto1/Prototype1/Content/Sounds/mrcrabs_565304.uasset",
 				"C:/Users/docto/Desktop/TeamGGProto1-main/TeamGGProto1/Prototype1/Content/Sounds/naturepower_82390.uasset",
